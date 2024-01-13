@@ -1,2 +1,0 @@
-# barber
- Trabalho para barbearia
